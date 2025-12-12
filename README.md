@@ -20,7 +20,8 @@ This is a mobile Android application developed for an individual assignment. It 
 ### App Interface
 | Main Page | About Page |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/306f7a8e-12e2-48ec-a9d2-f25f09b93ae4" width="300"> | <img src="https://github.com/user-attachments/assets/7759a80a-b4c8-4eea-b5ea-230629ca0bd9" width="300"> |
+| <img src="https://github.com/user-attachments/assets/306f7a8e-12e2-48ec-a9d2-f25f09b93ae4" width="300"> | <img width="360" height="803" alt="image" src="https://github.com/user-attachments/assets/2a5f56ea-9bac-49bb-b96d-31955837d55c" />
+ |
 
 ### Calculation Examples (Validation)
 | Sample Output 1 | Sample Output 2 | Sample Output 3 |
@@ -35,5 +36,6 @@ This is a mobile Android application developed for an individual assignment. It 
 ## Disclaimer
 
 This project is for educational purposes only.
+
 
 
