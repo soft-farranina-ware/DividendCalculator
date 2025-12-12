@@ -66,9 +66,9 @@
         android:id="@+id/tvGithubLink"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="https://github.com/FARRANINA/dividend"
+        android:text="https://github.com/soft-farranina-ware/DividendCalculator"
         android:textColor="#0000FF"
-        android:autoLink="web"
+        android:gravity="center_horizontal"       android:autoLink="web"
         android:textSize="16sp"
         android:layout_marginBottom="50dp"/>
 
