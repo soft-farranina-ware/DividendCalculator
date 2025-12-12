@@ -17,19 +17,19 @@ This is a mobile Android application developed for an individual assignment. It 
 
 ## Screenshots
 Here is the main calculator interface:
-![Main Page]
+Main Page <br>
 <img width="358" height="805" alt="image" src="https://github.com/user-attachments/assets/306f7a8e-12e2-48ec-a9d2-f25f09b93ae4" />
 
-![About Page]
+About Page <br>
 <img width="359" height="804" alt="image" src="https://github.com/user-attachments/assets/7759a80a-b4c8-4eea-b5ea-230629ca0bd9" />
 
-![Sample Output 1]
+Sample Output 1 <br>
 <img width="359" height="804" alt="image" src="https://github.com/user-attachments/assets/f1f9ab0a-8a58-4c99-a43a-5dec3866ee59" />
 
-![Sample Ouput 2]
+Sample Ouput 2 <br>
 <img width="356" height="802" alt="image" src="https://github.com/user-attachments/assets/6c432d6f-4831-4251-845e-0d92749d518b" />
 
-![Sample Output 3]
+Sample Output 3 <br>
 <img width="358" height="803" alt="image" src="https://github.com/user-attachments/assets/3b061aa5-ceb2-4e8c-b92f-ebab658b86ab" />
 
 
@@ -40,3 +40,4 @@ Here is the main calculator interface:
 ## Disclaimer
 
 This project is for educational purposes only.
+
