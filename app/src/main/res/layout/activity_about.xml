@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center_horizontal"
+    android:background="@color/paper_beige">
+
+    <ImageButton
+        android:id="@+id/btnBack"
+        android:layout_width="72dp"   android:layout_height="72dp"  android:src="@drawable/ic_back_arrow"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="Back"
+        android:tint="@color/coffee_brown"
+        android:padding="10dp"        android:scaleType="fitCenter"
+        android:layout_gravity="start"
+        android:layout_marginBottom="10dp"/>
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About This App"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="@color/coffee_brown"
+        android:layout_marginBottom="30dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: NUR FARRANINA FITRI BINTI ABDULLAH"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/dark_roast"
+        android:gravity="center_horizontal"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Matric No:2023276936"
+        android:textSize="18sp"
+        android:textColor="@color/dark_roast"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Course:D1CDCS2405A"
+        android:textSize="18sp"
+        android:textColor="@color/dark_roast"
+        android:layout_marginBottom="40dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GitHub Repository:"
+        android:textStyle="bold"
+        android:textColor="@color/coffee_brown"/>
+
+    <TextView
+        android:id="@+id/tvGithubLink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="https://github.com/FARRANINA/dividend"
+        android:textColor="#0000FF"
+        android:autoLink="web"
+        android:textSize="16sp"
+        android:layout_marginBottom="50dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="© 2025 All Rights Reserved"
+        android:textSize="14sp"
+        android:textColor="@color/coffee_brown"/>
+
+</LinearLayout>
